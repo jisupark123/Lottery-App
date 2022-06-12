@@ -1,0 +1,26 @@
+{
+  "name": "lottery-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jisupark123/Lottery-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jisupark123/Lottery-App/issues"
+  },
+  "homepage": "https://github.com/jisupark123/Lottery-App#readme",
+  "dependencies": {
+    "chai": "^4.3.6"
+  }
+}
